@@ -1,3 +1,3 @@
-Native publisher PDFs: SoftwareOne page, ISL fee schedule, AHV Leaflet 2.01.
-Browser-generated PDFs: official SEC HTML filings and official publisher webpages, retaining selectable text and displaying the official URL.
-ISL employer billing is a separate browser print of the company-sponsored-students section.
+Native publisher PDFs: SoftwareOne annual-report page, ISL fee schedule, and AHV Leaflet 2.01.
+Browser-generated PDFs: official SEC filing HTML and official publisher webpages, retaining selectable text and displaying the official URL.
+The ISL company-sponsored-students section is embedded separately from the native 2026/27 fee schedule.

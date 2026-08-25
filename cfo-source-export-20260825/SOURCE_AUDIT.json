@@ -1,13 +1,13 @@
 {
   "01_Guess_SEC_Exhibit_10.2_Source_Native_Browser_Print.pdf": {
     "pages": 2,
-    "bytes": 58026,
-    "text_chars": 3238,
+    "bytes": 58037,
+    "text_chars": 3239,
     "markers": {
       "EMPLOYMENT AGREEMENT": false,
       "Article 12": false
     },
-    "sha256": "8b5672a18f9472481e7658dbf9b5a92d12284601822bb92b0b2142058150a3d9",
+    "sha256": "d384fa728770bc9a535ba8ef3514248700b9b89616dbf5867cc4a138b62dd327",
     "record": {
       "source_url": "https://www.sec.gov/Archives/edgar/data/912463/000091246325000018/employmentagreement-cfogue.htm",
       "resolved_url": "https://www.sec.gov/Archives/edgar/data/912463/000091246325000018/employmentagreement-cfogue.htm",
@@ -31,13 +31,13 @@
   },
   "07_PMI_SEC_Exhibit_10.1_Source_Native_Browser_Print.pdf": {
     "pages": 2,
-    "bytes": 58089,
-    "text_chars": 3240,
+    "bytes": 58083,
+    "text_chars": 3241,
     "markers": {
       "Annual Base Salary": false,
       "Stock Award Program": false
     },
-    "sha256": "1b287fdde880a995db0c6330add55d5a56552143e637f2392c4d6b291064eb1e",
+    "sha256": "b6d4b4b111121c2cdf3b8798f9ddee912e7aa7517db52dd1f91e63808e15b5fa",
     "record": {
       "source_url": "https://www.sec.gov/Archives/edgar/data/1413329/000162828026043531/employmentcontract-massimo.htm",
       "resolved_url": "https://www.sec.gov/Archives/edgar/data/1413329/000162828026043531/employmentcontract-massimo.htm",
@@ -67,7 +67,7 @@
       "Company-sponsored students": true,
       "invoiced directly": false
     },
-    "sha256": "d8fa6342f24aa38c018cbc86642bc254b5554f9f207f7d3179ddc1d3f80ff1f9",
+    "sha256": "5d49db6bff69cad6ad415082435ae05b9ee3c87739c4b23ca6588e13db5c733d",
     "record": {
       "source_url": "https://www.isl.ch/admissions/school-fees/",
       "resolved_url": "https://www.isl.ch/admissions/school-fees/",
@@ -77,13 +77,13 @@
   },
   "10A_RealAdvisor_Lausanne_Source_Native_Browser_Print.pdf": {
     "pages": 1,
-    "bytes": 38202,
+    "bytes": 38596,
     "text_chars": 375,
     "markers": {
       "Lausanne": true,
       "rent": false
     },
-    "sha256": "6dfbe7a67ba9a1613f35d1fecd47a6e9a5f5961970168ad66041cafd2774e6cb",
+    "sha256": "c0f798bc0dacbefcd80bcac32c73aa0a92018e4db73f32c07f4b27ab98db9338",
     "record": {
       "source_url": "https://realadvisor.ch/en/property-prices/city-lausanne",
       "resolved_url": "https://realadvisor.ch/en/property-prices/city-lausanne",
@@ -98,7 +98,7 @@
     "markers": {
       "Premiums in 2026": true
     },
-    "sha256": "a9198d3d8801774daca1c8ba5cbf1fda12da8da57d3feaa7fa7162f0ebe6c0e6",
+    "sha256": "66c79fc5b2c884603f5bff95b1a055b7b27e8b4934b7e7a497af8dec14b35be8",
     "record": {
       "source_url": "https://www.bag.admin.ch/en/premiums-and-costs-answers-to-frequently-asked-questions",
       "resolved_url": "https://www.bag.admin.ch/en/premiums-and-costs-answers-to-frequently-asked-questions",
@@ -126,7 +126,7 @@
     "markers": {
       "26,993": true
     },
-    "sha256": "76875185f11d3e92e0f92b7f8fa524aefe61c5c9415ee1a9807e8e299b561b94",
+    "sha256": "5b5c3c8672b4f083b28feca73e4c42486d749b85c12205a3df04f5df70bd760b",
     "record": {
       "source_url": "https://www.kff.org/health-costs/annual-family-premiums-for-employer-coverage-rise-6-in-2025-nearing-27000-with-workers-paying-6850-toward-premiums-out-of-their-paychecks/",
       "resolved_url": "https://www.kff.org/health-costs/annual-family-premiums-for-employer-coverage-rise-6-in-2025-nearing-27000-with-workers-paying-6850-toward-premiums-out-of-their-paychecks/",
@@ -142,7 +142,7 @@
       "Switzerland": true,
       "cost": true
     },
-    "sha256": "e41f82c89e2466d0daf03f1d55a5a391d7a462c7db1a2ed7597bc3813268d987",
+    "sha256": "f893aea10b05fc49e8b31b4a69e328befc300ecce040af7b72ee7fec9c5e34b9",
     "record": {
       "source_url": "https://sirelo.com/moving-abroad/moving-to-switzerland/",
       "resolved_url": "https://sirelo.com/moving-abroad/moving-to-switzerland/",

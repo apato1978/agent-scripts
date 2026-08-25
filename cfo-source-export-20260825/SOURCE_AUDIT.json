@@ -1,0 +1,153 @@
+{
+  "01_Guess_SEC_Exhibit_10.2_Source_Native_Browser_Print.pdf": {
+    "pages": 2,
+    "bytes": 58026,
+    "text_chars": 3238,
+    "markers": {
+      "EMPLOYMENT AGREEMENT": false,
+      "Article 12": false
+    },
+    "sha256": "8b5672a18f9472481e7658dbf9b5a92d12284601822bb92b0b2142058150a3d9",
+    "record": {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/912463/000091246325000018/employmentagreement-cfogue.htm",
+      "resolved_url": "https://www.sec.gov/Archives/edgar/data/912463/000091246325000018/employmentagreement-cfogue.htm",
+      "method": "browser",
+      "isolated_section": false
+    }
+  },
+  "04_SoftwareOne_Annual_Report_2025_Page_199_Source_Native.pdf": {
+    "pages": 1,
+    "bytes": 4911510,
+    "text_chars": 3684,
+    "markers": {
+      "Rodolfo Savitzky": true,
+      "Executive Board": true
+    },
+    "sha256": "212644173e7864a4bda526bf94e9d661bc4496e36141ec0ee4e3fd33567e8187",
+    "record": {
+      "source_url": "https://report.softwareone.com/ar25/app/uploads/SWO-Annual-Report-2025-en.pdf",
+      "native_pdf_page": 43
+    }
+  },
+  "07_PMI_SEC_Exhibit_10.1_Source_Native_Browser_Print.pdf": {
+    "pages": 2,
+    "bytes": 58089,
+    "text_chars": 3240,
+    "markers": {
+      "Annual Base Salary": false,
+      "Stock Award Program": false
+    },
+    "sha256": "1b287fdde880a995db0c6330add55d5a56552143e637f2392c4d6b291064eb1e",
+    "record": {
+      "source_url": "https://www.sec.gov/Archives/edgar/data/1413329/000162828026043531/employmentcontract-massimo.htm",
+      "resolved_url": "https://www.sec.gov/Archives/edgar/data/1413329/000162828026043531/employmentcontract-massimo.htm",
+      "method": "browser",
+      "isolated_section": false
+    }
+  },
+  "08A_ISL_2026_27_Fee_Schedule_Source_Native.pdf": {
+    "pages": 2,
+    "bytes": 128767,
+    "text_chars": 3958,
+    "markers": {
+      "SCHOOL FEES": true,
+      "Tuition": true
+    },
+    "sha256": "9d2ad5db7f7c1c9bc3cc01f90813155069adb841cc5f2da3f3148ed5fee2d6a4",
+    "record": {
+      "source_url": "https://www.isl.ch/hubfs/School-Fees-2026-2027.pdf",
+      "landing": "https://www.isl.ch/admissions/school-fees/"
+    }
+  },
+  "08B_ISL_Company_Sponsored_Students_Source_Native_Browser_Print.pdf": {
+    "pages": 3,
+    "bytes": 1438192,
+    "text_chars": 1436,
+    "markers": {
+      "Company-sponsored students": true,
+      "invoiced directly": false
+    },
+    "sha256": "d8fa6342f24aa38c018cbc86642bc254b5554f9f207f7d3179ddc1d3f80ff1f9",
+    "record": {
+      "source_url": "https://www.isl.ch/admissions/school-fees/",
+      "resolved_url": "https://www.isl.ch/admissions/school-fees/",
+      "method": "browser",
+      "isolated_section": true
+    }
+  },
+  "10A_RealAdvisor_Lausanne_Source_Native_Browser_Print.pdf": {
+    "pages": 1,
+    "bytes": 38202,
+    "text_chars": 375,
+    "markers": {
+      "Lausanne": true,
+      "rent": false
+    },
+    "sha256": "6dfbe7a67ba9a1613f35d1fecd47a6e9a5f5961970168ad66041cafd2774e6cb",
+    "record": {
+      "source_url": "https://realadvisor.ch/en/property-prices/city-lausanne",
+      "resolved_url": "https://realadvisor.ch/en/property-prices/city-lausanne",
+      "method": "browser",
+      "isolated_section": false
+    }
+  },
+  "10B_FOPH_2026_Premiums_Source_Native_Browser_Print.pdf": {
+    "pages": 5,
+    "bytes": 305488,
+    "text_chars": 5424,
+    "markers": {
+      "Premiums in 2026": true
+    },
+    "sha256": "a9198d3d8801774daca1c8ba5cbf1fda12da8da57d3feaa7fa7162f0ebe6c0e6",
+    "record": {
+      "source_url": "https://www.bag.admin.ch/en/premiums-and-costs-answers-to-frequently-asked-questions",
+      "resolved_url": "https://www.bag.admin.ch/en/premiums-and-costs-answers-to-frequently-asked-questions",
+      "method": "browser",
+      "isolated_section": false
+    }
+  },
+  "10C_AHV_Leaflet_2.01_Source_Native.pdf": {
+    "pages": 18,
+    "bytes": 246332,
+    "text_chars": 30722,
+    "markers": {
+      "contribution rates": true
+    },
+    "sha256": "50063565b9d678831d2a1c98a950f54b86320888ddf77d0857d8cf2f997175e0",
+    "record": {
+      "source_url": "https://www.ahv-iv.ch/p/2.01.e",
+      "landing": "https://www.ahv-iv.ch/p/2.01.e"
+    }
+  },
+  "10D_KFF_2025_EHBS_Source_Native_Browser_Print.pdf": {
+    "pages": 5,
+    "bytes": 134602,
+    "text_chars": 8787,
+    "markers": {
+      "26,993": true
+    },
+    "sha256": "76875185f11d3e92e0f92b7f8fa524aefe61c5c9415ee1a9807e8e299b561b94",
+    "record": {
+      "source_url": "https://www.kff.org/health-costs/annual-family-premiums-for-employer-coverage-rise-6-in-2025-nearing-27000-with-workers-paying-6850-toward-premiums-out-of-their-paychecks/",
+      "resolved_url": "https://www.kff.org/health-costs/annual-family-premiums-for-employer-coverage-rise-6-in-2025-nearing-27000-with-workers-paying-6850-toward-premiums-out-of-their-paychecks/",
+      "method": "browser",
+      "isolated_section": false
+    }
+  },
+  "10E_Sirelo_Moving_to_Switzerland_Source_Native_Browser_Print.pdf": {
+    "pages": 15,
+    "bytes": 2418821,
+    "text_chars": 12750,
+    "markers": {
+      "Switzerland": true,
+      "cost": true
+    },
+    "sha256": "e41f82c89e2466d0daf03f1d55a5a391d7a462c7db1a2ed7597bc3813268d987",
+    "record": {
+      "source_url": "https://sirelo.com/moving-abroad/moving-to-switzerland/",
+      "resolved_url": "https://sirelo.com/moving-abroad/moving-to-switzerland/",
+      "method": "browser",
+      "isolated_section": false
+    }
+  }
+}

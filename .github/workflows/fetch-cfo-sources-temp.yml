@@ -9,7 +9,7 @@ on:
       - .github/workflows/fetch-cfo-sources-temp.yml
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   fetch:
@@ -34,3 +34,16 @@ jobs:
           path: cfo-source-native-pdfs/
           if-no-files-found: error
           retention-days: 1
+      - name: Commit source audit for retrieval
+        if: always()
+        run: |
+          mkdir -p cfo-source-export-20260825
+          cp cfo-source-native-pdfs/SOURCE_AUDIT.json cfo-source-export-20260825/SOURCE_AUDIT.json || true
+          cp cfo-source-native-pdfs/SOURCE_ERRORS.json cfo-source-export-20260825/SOURCE_ERRORS.json || true
+          cp cfo-source-native-pdfs/SOURCE_PROVENANCE.txt cfo-source-export-20260825/SOURCE_PROVENANCE.txt || true
+          cp cfo-source-native-pdfs/SHA256SUMS.txt cfo-source-export-20260825/SHA256SUMS.txt || true
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add cfo-source-export-20260825
+          git commit -m "Record CFO source audit" || true
+          git push
